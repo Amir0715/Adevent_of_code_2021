@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "adevent_of_code_2021"
+name = "advent_of_code_2021"
 version = "0.1.0"
 description = "AoC 2021"
 authors = ["amir kamolov <kamolov.amir2000@yandex.ru>"]
